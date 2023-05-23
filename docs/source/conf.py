@@ -36,6 +36,6 @@ epub_show_urls = 'footnote'
 
 import sys,os
 import sys,os
-sys.path.insert(0,os.path.abspath('.'))
+sys.path.insert(0,os.path.abspath('../../'))
 
 
