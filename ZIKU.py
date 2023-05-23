@@ -1,5 +1,6 @@
 #字库
-#import cv2,os,numpy as np
+#import cv2
+import os,numpy as np
 
 class ZIKU:
     """ 这个类读出字库中的汉字的图片，然后写在图片上"""
