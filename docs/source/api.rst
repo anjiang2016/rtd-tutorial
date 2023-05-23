@@ -1,7 +1,7 @@
 API
 ===
  
-.. autofunction:: ZIKU.set_size 
+.. autofunction:: ZIKU.ZIKU.set_size 
 
 Autodoc
 -------
