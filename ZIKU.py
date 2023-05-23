@@ -1,3 +1,6 @@
+"""
+ZIKU - 为需要在图片上显示汉字的程序员制作的python库.
+"""
 #字库
 #import cv2
 import os,numpy as np

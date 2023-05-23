@@ -1,9 +1,13 @@
-API
+类
 ===
  
-.. autofunction:: ZIKU.ZIKU.set_size 
+.. autosummary::
+   :toctree: generated
 
-Autodoc怎么不起作用
+   ZIKU
+
+
+成员函数
 -----------------------
 
 
