@@ -1,8 +1,7 @@
 API
 ===
  
-.. automodule:: ZIKU
-   :members:__init__,set_size,write,get,test
+.. autofunction:: ZIKU.set_size 
 
 Autodoc
 -------
